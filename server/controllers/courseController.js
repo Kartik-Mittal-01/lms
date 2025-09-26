@@ -1,3 +1,4 @@
+
 import Course from "../models/Course.js";
 
 // get all courses 
